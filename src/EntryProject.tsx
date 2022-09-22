@@ -56,11 +56,11 @@ export default function FirstEntryProject() {
                   mr: 3,
                 }}
               >
-                Description: (This website!) This project is a representation of
-                the some of the skills I have acquired throughout my web
-                developing journey. I display nested react-routing, hooks, a
-                navigation bar, a drawer component when width is small or phone
-                used and 3D animation and controlling used.
+                Description: In this site I build a simple 3D model with an
+                animation that only rotates it on the X-axis to a certain angel.
+                I then control the animation with the scroller to mimic the idea
+                of traveling through different terrains while looking through
+                the pages.
               </Typography>
 
               <Typography

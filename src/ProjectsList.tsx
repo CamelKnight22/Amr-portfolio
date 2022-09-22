@@ -73,11 +73,11 @@ export default function ProjectsDone() {
               >
                 Link:
                 <Link
-                  href="https://amr-portfolio.vercel.app/"
+                  href="https://amr-portfolio-o5kj.vercel.app/"
                   underline="none"
                   color="white"
                 >
-                  {" https://amr-portfolio.vercel.app/"}
+                  {" https://amr-portfolio-o5kj.vercel.app/"}
                 </Link>
               </Typography>
               <Typography
@@ -166,11 +166,12 @@ export default function ProjectsDone() {
                   mr: 3,
                 }}
               >
-                Description: (This website!) This project is a representation of
-                the some of the skills I have acquired throughout my web
-                developing journey. I display nested react-routing, hooks, a
-                navigation bar, a drawer component when width is small or phone
-                used and 3D animation and controlling used.
+                Description: In this project I build an mimic a database by
+                creating an array of data that I then call or "map" into the
+                site in the form of cards that display various information about
+                each group of data. This site also has a functional searchbar
+                that "filters" the cards and displays only the ones with the
+                title name in the search.
               </Typography>
               <Typography
                 sx={{
@@ -265,11 +266,12 @@ export default function ProjectsDone() {
                   mr: 3,
                 }}
               >
-                Description: (This website!) This project is a representation of
-                the some of the skills I have acquired throughout my web
-                developing journey. I display nested react-routing, hooks, a
-                navigation bar, a drawer component when width is small or phone
-                used and 3D animation and controlling used.
+                Description: In this project I call or "fetch" specific data
+                from an API and view it in the site in form of an image. I also
+                use hooks in form of "states" to edit the top and bottom texts
+                of the images while the user is still able to call new images
+                from the API without changing the "state" of the site (in other
+                words you don't lose the written unsaved data)
               </Typography>
               <Typography
                 sx={{
